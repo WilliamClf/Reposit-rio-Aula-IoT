@@ -1,4 +1,4 @@
-# Comandos GitHub
+## Comandos GitHub
 
 # git add -> stage
 # git commit -m "" -> commit no repositório local
@@ -6,8 +6,6 @@
 # git status -> visualização do status
 # git pull -> atualiza o repositório local, significa basicamente git fetch e git merge
 # git log -> acessa o histórico
-# 11- Acesse o histórico da sua branch atual (main):
-# R:
 # 12- Crie uma tag do seu projeto:
 # R:
 # 13- Inclua um título no index.html (ou outra modificação), crie uma branch com o nome feature inclusão-do-título.
