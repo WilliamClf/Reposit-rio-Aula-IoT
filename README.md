@@ -6,10 +6,12 @@
 ## git status -> visualização do status
 ## git pull -> atualiza o repositório local, significa basicamente git fetch e git merge
 ## git log -> acessa o histórico
-## 12- Crie uma tag do seu projeto:
-## R:
-## 13- Inclua um título no index.html (ou outra modificação), crie uma branch com o nome feature inclusão-do-título.
-## R:
+## git tag -a v1.0 -m "versao 1.0" -> é em geral usado para capturar um ponto no histórico que é usado para uma versão marcada. 
+## git checkout -b nomebranch -> para criar uma branch
+## git checkout nomebranch -> para mudar a branch
+## git branch -> mosta as branchs do projeto
+
+
 ## 14- Como acessar uma branch?
 ## R:
 ## 15- Como trocar de branch?
