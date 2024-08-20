@@ -10,7 +10,8 @@
 ## git checkout -b nomebranch -> para criar uma branch
 ## git checkout nomebranch -> para mudar a branch
 ## git branch -> mosta as branchs do projeto
-
+## como Fazer um Pull Request -> No GitHub, vá até o branch e clique em “Compare & pull request”. Descreva as mudanças e envie o PR.
+## como adicionar Reviewers em seu repositório -> Após criar o PR, vá até a seção “Reviewers” no GitHub. Selecione os usuários que você deseja adicionar como revisores.
 
 ## 14- Como acessar uma branch?
 ## R:
@@ -27,10 +28,6 @@
 ## 19- Resete seu código até algum momento utilizando como parâmetro o hash da commit:
 ## R:
 ## 20- Crie um arquivo tipo txt e guarde em sua stash:
-## R:
-## 21- Como fazer um Pull-Request?
-## R:
-## 22- Como adicionar Reviewers em seu repositório: 
 ## R:
 
 
